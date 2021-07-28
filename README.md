@@ -1,4 +1,4 @@
 - Hi, I’m @sonjoh
 - I’m interested in programming, network, penetration testing and technology.
-- I’m currently studying to start off in IT.
+- I’m currently studying to start off in Cybersecurity.
 - How to reach me: sondre.johans1@outlook.com
